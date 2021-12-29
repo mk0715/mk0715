@@ -1,9 +1,9 @@
-### Hi 👋
+### Hi 👋 
 
-
-
-
-
+👀 I’m a senior in KMU majoring in Bigdata Analytics Statistics and minoring in Data Science.
+🌱 I’m currently learning ... Machine learning, Deeplearning, Tableau
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ... dirndhkd0715@naver.com
 
 
 
