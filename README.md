@@ -24,6 +24,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk0715&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=mk0715&row=2&column=4&margin-w=15&margin-h=15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk0715&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
